@@ -1,48 +1,61 @@
-.speech {
+p.speech {
     font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
     color: black; 
 }
 
-.song {
+p.song {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 16px;
     color: black;
 }
 
-.direction {
+p.direction {
     font-family: 'Times New Roman', Times, serif;
     font-size: 14px;
     color: black;
     background-color: bisque;
 }
 
-.h6.name {
+h6.name {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 12px;
     color: black; 
 }
-.direction:hover,direction:active {
+p.direction:hover,direction:active {
     background-color: aqua;
     color: blue; 
 }
-.Zara {
+h6.Zara {
     font-style: italic;
     color: brown;
 
 }
 
-.Fitz {
+h6.Fitz {
     font-style: oblique;
     color: chartreuse;
 }
 
-.King {
+h6.King {
     font-style: inherit;
     color: darkmagenta; 
 }  
 
-.CHORUS {
+p.CHORUS {
     font-style: initial; 
     color: cornflowerblue; 
+}
+
+.table{
+    border: 4px;
+    border-style: groove;
+    color:blueviolet;
+    text-align: center;
+    background-color: aquamarine;
+    padding: 2px;
+    margin: 1px;
+}
+tr:nth-child(even) {
+    background-color: darkgray; 
 }
