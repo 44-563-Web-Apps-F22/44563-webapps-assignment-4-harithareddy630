@@ -29,24 +29,24 @@ p.direction:hover,direction:active {
     color: blue; 
 }
 
-.Zara{
+.Zara:hover{
     font-style:italic;
     color: rgb(248, 252, 5);
     filter: blur(1px);
     text-shadow: 2px;
 }
-.Fitz {
+.Fitz:hover {
     font-style: oblique;
     color: chartreuse;
     filter: blur(1px);
     text-shadow: 2px;
 }
 
-.King {
+.King:hover {
     font-style: inherit; 
     color: darkmagenta; 
     filter: blur(1px);
-    text-shadow: 2px; 
+    text-shadow: 2px;  
 }  
 
 p.CHORUS {
