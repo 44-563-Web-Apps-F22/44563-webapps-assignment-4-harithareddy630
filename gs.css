@@ -17,7 +17,7 @@ p.direction {
     background-color: bisque;
 }
 
-h6.name {
+.name {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
     color: black;
@@ -26,19 +26,18 @@ p.direction:hover,direction:active {
     background-color: aqua;
     color: blue; 
 }
-h6.Zara:hover{
-    color:darkred;
-    font-size: 20px;
-    background-color: orchid;
-}
 
-h6.Fitz {
+.Zara{
+    color: black;
+}
+rgb(0, 0, 0)
+.Fitz {
     font-style: oblique;
     color: chartreuse;
 }
 
-h6.King {
-    font-style: inherit;
+.King {
+    font-style: inherit; 
     color: darkmagenta; 
 }  
 
