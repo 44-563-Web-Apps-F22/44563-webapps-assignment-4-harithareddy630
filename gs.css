@@ -14,23 +14,23 @@ p.direction {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     color: black;
-    background-color: bisque;
+    background-color: bisque; 
 }
 
 .name {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-    color: black;
-}
+    color: rgb(10, 11, 10); 
+} 
 p.direction:hover,direction:active {
     background-color: aqua;
     color: blue; 
 }
 
 .Zara{
-    color: black;
+    font-style:italic;
+    color: rgb(248, 252, 5);
 }
-rgb(0, 0, 0)
 .Fitz {
     font-style: oblique;
     color: chartreuse;
