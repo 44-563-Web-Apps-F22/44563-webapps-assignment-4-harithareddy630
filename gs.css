@@ -2,12 +2,14 @@ p.speech {
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
     color: black;  
+    text-indent: 50px; 
 }
 
 p.song {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     color: black; 
+    text-indent: 60px; 
 }
 
 p.direction {
